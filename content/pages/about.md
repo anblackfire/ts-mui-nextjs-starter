@@ -9,11 +9,7 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: Forma de Atuação
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Além de oferecer suporte para nossos clientes nos diversos aspectos contábeis, prestamos consultoria jurídica, com enfoque preventivo e contencioso, para atender com maior amplitude aos interesses e necessidades, tanto de pessoas físicas ou jurídicas, por intermédio de análises estratégicas e técnicas, com o intuito de orientar e proporcionar as soluções mais eficazes e seguras no âmbito legal.**\n**\n\nAlgumas vantagens da consultoria:\n\n*   Auxílio em planejamento e tomadas de decisão, para garantir os\_projetos futuros com segurança.\n\n*   Antecipação de riscos e prejuízos, apresentando soluções\_específicas e reduzindo custos.\n\n*   Contribuição para o crescimento progressivo do cliente\_empresarial.\n\n*   Suporte na celebração de contratos.\n\n*   Atualização sobre as novidades legislativas, nas diversas áreas de\_influência, como Direito do Trabalho, Direito Civil, Direito\_Previdenciário e Ambiental.\n\n\n\n"
     actions: []
     image:
       type: Image
