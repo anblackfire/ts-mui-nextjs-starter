@@ -51,6 +51,13 @@
                 "label": "Contato",
                 "underline": "hover",
                 "url": "/contato"
+            },
+            {
+                "type": "Link",
+                "label": "Serviços",
+                "url": "/Serviços",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     }
