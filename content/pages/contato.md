@@ -3,7 +3,7 @@ type: Page
 title: Contato
 sections:
   - type: HeroSection
-    title: Example for H2 headline
+    title: 'INFORMAÇÕES E ORÇAMENTO:'
     subtitle: 'NFORMAÇÕES E ORÇAMENTO:'
     text: >
       This is **Markdown** *text*.
