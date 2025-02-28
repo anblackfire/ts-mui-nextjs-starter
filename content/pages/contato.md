@@ -4,7 +4,7 @@ title: Contato
 sections:
   - type: HeroSection
     title: Example for H2 headline
-    subtitle: This is the subtitle
+    subtitle: 'NFORMAÇÕES E ORÇAMENTO:'
     text: >
       This is **Markdown** *text*.
 
