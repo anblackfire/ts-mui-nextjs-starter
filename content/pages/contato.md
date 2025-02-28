@@ -1,6 +1,6 @@
 ---
 type: Page
-title: About
+title: Contato
 sections:
   - type: HeroSection
     title: Example for H2 headline
