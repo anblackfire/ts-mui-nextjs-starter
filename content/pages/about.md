@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Sobre nós
-    subtitle: This is the subtitle
+    subtitle: Sobre a Eliana Cássia Vaz
     text: >
       This is **Markdown** *text*.
 
