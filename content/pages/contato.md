@@ -5,6 +5,6 @@ sections:
   - type: HeroSection
     title: Contato
     subtitle: 'INFORMAÇÕES E ORÇAMENTO:'
-    text: "(41 9 9753-9972\n\n<elianavaz@hotmail.com>\n\nHORÁRIO DE ATENDIMENTO:\n\nSegunda a Sexta:\n\n**\\*\\*\_9:00 às 12:00 h; 13:00 às 18:00 h.\\*\\***\n"
+    text: "**(41) 9 9753-9972**\n\n****[**elianavaz@hotmail.com**](mailto:elianavaz@hotmail.com)****\n\n\n\n\n\nHORÁRIO DE ATENDIMENTO:\n\nSegunda a Sexta:\n\n**\_9:00 às 12:00 h; 13:00 às 18:00 h.**\n"
     actions: []
 ---
