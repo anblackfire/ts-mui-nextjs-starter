@@ -5,14 +5,6 @@ sections:
   - type: HeroSection
     title: 'INFORMAÇÕES E ORÇAMENTO:'
     subtitle: 'NFORMAÇÕES E ORÇAMENTO:'
-    text: >
-      This is **Markdown** *text*.
-
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+    text: "HORÁRIO DE ATENDIMENTO:\n\nSegunda a Sexta:\n\n**\_9:00 às 12:00 h; 13:00 às 18:00 h.**\n\n"
     actions: []
 ---
