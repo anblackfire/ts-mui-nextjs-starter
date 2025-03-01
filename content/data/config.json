@@ -59,7 +59,7 @@
                 "type": "Link",
                 "label": "Serviços",
                 "url": "/Servicos",
-                "underline": "always",
+                "underline": "hover",
                 "color": "primary"
             }
         ]
