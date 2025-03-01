@@ -26,7 +26,7 @@
                 "type": "Link",
                 "label": "Serviços",
                 "url": "/Servicos",
-                "underline": "always",
+                "underline": "none",
                 "color": "primary"
             }
         ]
