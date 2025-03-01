@@ -20,7 +20,8 @@
                 "type": "Link",
                 "label": "Contato",
                 "url": "Contato",
-                "underline": "hover"
+                "underline": "hover",
+                "color": "primary"
             },
             {
                 "type": "Link",
