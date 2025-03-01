@@ -47,7 +47,8 @@
                 "type": "Link",
                 "label": "Sobre nós",
                 "underline": "hover",
-                "url": "/about"
+                "url": "/about",
+                "color": "primary"
             },
             {
                 "type": "Link",
